@@ -2,16 +2,18 @@
   "contributor": [
     "masagrator"
   ],
-  "docked": {
-    "fps_behavior": "Locked",
-    "resolution": "1920x1080",
-    "resolution_type": "Fixed",
-    "target_fps": 30
-  },
-  "handheld": {
-    "fps_behavior": "Locked",
-    "resolution": "1280x720",
-    "resolution_type": "Fixed",
-    "target_fps": 30
+  "profiles": {
+    "docked": {
+      "fps_behavior": "Locked",
+      "resolution": "1920x1080",
+      "resolution_type": "Fixed",
+      "target_fps": 30
+    },
+    "handheld": {
+      "fps_behavior": "Locked",
+      "resolution": "1280x720",
+      "resolution_type": "Fixed",
+      "target_fps": 30
+    }
   }
 }
