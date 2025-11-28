@@ -25,5 +25,6 @@
       "notes": "Disabled dynamic resolution results in Fixed 800x448. Dynamic resolution targets 30 FPS.",
       "resolutionType": "Dynamic"
     }
-  }
+  },
+  "lastUpdated": "2025-11-24T08:23:40Z"
 }

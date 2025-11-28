@@ -31,5 +31,6 @@
       "notes": "Sharpening is activated when dynamic resolution dips to 432p in handheld / 648p in docked and below.",
       "value": "FSR1"
     }
-  }
+  },
+  "lastUpdated": "2025-10-18T09:04:54Z"
 }
