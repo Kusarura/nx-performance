@@ -1,5 +1,8 @@
 {
-  "contributor": "masagrator",
+  "contributor": [
+    "biase-d",
+    "masagrator"
+  ],
   "docked": {
     "framerate": {
       "apiBuffering": "Unknown",

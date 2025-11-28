@@ -1,16 +1,21 @@
 {
-  "docked": {
-    "fps_behavior": "Stable",
-    "max_res": "1280x720",
-    "min_res": "640x360",
-    "resolution_type": "Dynamic",
-    "target_fps": 30
-  },
-  "handheld": {
-    "fps_behavior": "Unstable",
-    "max_res": "1280x720",
-    "min_res": "640x360",
-    "resolution_type": "Dynamic",
-    "target_fps": 30
+  "contributor": [
+    "biase-d"
+  ],
+  "profiles": {
+    "docked": {
+      "fps_behavior": "Stable",
+      "max_res": "1280x720",
+      "min_res": "640x360",
+      "resolution_type": "Dynamic",
+      "target_fps": 30
+    },
+    "handheld": {
+      "fps_behavior": "Unstable",
+      "max_res": "1280x720",
+      "min_res": "640x360",
+      "resolution_type": "Dynamic",
+      "target_fps": 30
+    }
   }
 }

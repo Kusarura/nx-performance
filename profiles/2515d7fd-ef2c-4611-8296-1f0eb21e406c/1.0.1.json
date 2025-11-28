@@ -1,18 +1,23 @@
 {
-  "docked": {
-    "fps_behavior": "Stable",
-    "fps_notes": "CPU limited framerate drops in some areas",
-    "resolution": "1920x1080",
-    "resolution_notes": "Some UI elements designed for 720p",
-    "resolution_type": "Fixed",
-    "target_fps": 30
-  },
-  "handheld": {
-    "fps_behavior": "Stable",
-    "fps_notes": "CPU limited framerate drops in some areas",
-    "resolution": "1920x1080",
-    "resolution_notes": "Some UI elements designed for 720p",
-    "resolution_type": "Fixed",
-    "target_fps": 30
+  "contributor": [
+    "biase-d"
+  ],
+  "profiles": {
+    "docked": {
+      "fps_behavior": "Stable",
+      "fps_notes": "CPU limited framerate drops in some areas",
+      "resolution": "1920x1080",
+      "resolution_notes": "Some UI elements designed for 720p",
+      "resolution_type": "Fixed",
+      "target_fps": 30
+    },
+    "handheld": {
+      "fps_behavior": "Stable",
+      "fps_notes": "CPU limited framerate drops in some areas",
+      "resolution": "1920x1080",
+      "resolution_notes": "Some UI elements designed for 720p",
+      "resolution_type": "Fixed",
+      "target_fps": 30
+    }
   }
 }

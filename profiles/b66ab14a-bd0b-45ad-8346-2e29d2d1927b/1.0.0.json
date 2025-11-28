@@ -1,14 +1,19 @@
 {
-  "docked": {
-    "fps_behavior": "Stable",
-    "resolution": "1600x900",
-    "resolution_type": "Fixed",
-    "target_fps": 60
-  },
-  "handheld": {
-    "fps_behavior": "Stable",
-    "resolution": "960x540",
-    "resolution_type": "Fixed",
-    "target_fps": 60
+  "contributor": [
+    "biase-d"
+  ],
+  "profiles": {
+    "docked": {
+      "fps_behavior": "Stable",
+      "resolution": "1600x900",
+      "resolution_type": "Fixed",
+      "target_fps": 60
+    },
+    "handheld": {
+      "fps_behavior": "Stable",
+      "resolution": "960x540",
+      "resolution_type": "Fixed",
+      "target_fps": 60
+    }
   }
 }

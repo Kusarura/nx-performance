@@ -1,12 +1,17 @@
 {
-  "docked": {
-    "fps_behavior": "Locked",
-    "resolution_type": "Fixed",
-    "target_fps": 60
-  },
-  "handheld": {
-    "fps_behavior": "Locked",
-    "resolution_type": "Fixed",
-    "target_fps": 60
+  "contributor": [
+    "biase-d"
+  ],
+  "profiles": {
+    "docked": {
+      "fps_behavior": "Locked",
+      "resolution_type": "Fixed",
+      "target_fps": 60
+    },
+    "handheld": {
+      "fps_behavior": "Locked",
+      "resolution_type": "Fixed",
+      "target_fps": 60
+    }
   }
 }
