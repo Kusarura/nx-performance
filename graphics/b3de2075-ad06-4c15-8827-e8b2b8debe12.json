@@ -1,0 +1,29 @@
+{
+  "contributor": [
+    "masagrator"
+  ],
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "Custom",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "1440x900",
+      "minResolution": "832x520",
+      "resolutionType": "Dynamic"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "Custom",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "1152x720",
+      "minResolution": "640x400",
+      "resolutionType": "Dynamic"
+    }
+  }
+}

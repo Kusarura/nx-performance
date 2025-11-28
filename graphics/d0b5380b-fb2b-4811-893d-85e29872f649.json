@@ -1,0 +1,27 @@
+{
+  "contributor": [
+    "biase-d"
+  ],
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "Unlocked",
+      "targetFps": 60
+    },
+    "resolution": {
+      "fixedResolution": "1280x720",
+      "resolutionType": "Fixed"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "Unlocked",
+      "targetFps": 60
+    },
+    "resolution": {
+      "fixedResolution": "1024x576",
+      "resolutionType": "Fixed"
+    }
+  }
+}

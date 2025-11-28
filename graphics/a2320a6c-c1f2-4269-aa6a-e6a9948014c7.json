@@ -1,0 +1,30 @@
+{
+  "contributor": [
+    "ChanseyIsTheBest",
+    "masagrator"
+  ],
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Double (Reversed)",
+      "lockType": "API",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "1280x720",
+      "minResolution": "640x360",
+      "resolutionType": "Dynamic"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Double (Reversed)",
+      "lockType": "API",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "1280x720",
+      "minResolution": "640x360",
+      "resolutionType": "Dynamic"
+    }
+  }
+}

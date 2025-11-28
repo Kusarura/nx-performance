@@ -1,0 +1,30 @@
+{
+  "contributor": [
+    "masagrator",
+    "ChanseyIsTheBest"
+  ],
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "API",
+      "notes": "60 FPS for fullscreen menus and synthesis",
+      "targetFps": 30
+    },
+    "resolution": {
+      "fixedResolution": "1920x1080",
+      "resolutionType": "Fixed"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "API",
+      "notes": "60 FPS for fullscreen menus and synthesis",
+      "targetFps": 30
+    },
+    "resolution": {
+      "fixedResolution": "1280x720",
+      "resolutionType": "Fixed"
+    }
+  }
+}

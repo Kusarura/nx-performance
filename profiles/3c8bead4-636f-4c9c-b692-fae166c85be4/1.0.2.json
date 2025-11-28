@@ -1,0 +1,16 @@
+{
+  "docked": {
+    "fps_behavior": "Stable",
+    "max_res": "1920x1080",
+    "min_res": "1440x810",
+    "resolution_type": "Dynamic",
+    "target_fps": 30
+  },
+  "handheld": {
+    "fps_behavior": "Stable",
+    "max_res": "1280x720",
+    "min_res": "960x540",
+    "resolution_type": "Dynamic",
+    "target_fps": 30
+  }
+}

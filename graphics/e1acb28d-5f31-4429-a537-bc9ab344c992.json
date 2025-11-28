@@ -1,0 +1,23 @@
+{
+  "contributor": "masagrator",
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Unknown",
+      "lockType": "API",
+      "targetFps": 30
+    },
+    "resolution": {
+      "resolutionType": "Fixed"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Unknown",
+      "lockType": "API",
+      "targetFps": 30
+    },
+    "resolution": {
+      "resolutionType": "Fixed"
+    }
+  }
+}

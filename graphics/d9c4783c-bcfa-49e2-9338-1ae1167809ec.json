@@ -1,0 +1,27 @@
+{
+  "contributor": "masagrator",
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Unknown",
+      "lockType": "API",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "1280x720",
+      "minResolution": "640x360",
+      "resolutionType": "Dynamic"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Unknown",
+      "lockType": "API",
+      "targetFps": 30
+    },
+    "resolution": {
+      "fixedResolution": "640x360",
+      "notes": "In older updates game was using dynamic resolution",
+      "resolutionType": "Fixed"
+    }
+  }
+}

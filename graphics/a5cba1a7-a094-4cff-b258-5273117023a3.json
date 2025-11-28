@@ -1,0 +1,31 @@
+{
+  "contributor": "masagrator",
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "API",
+      "targetFps": 30
+    },
+    "resolution": {
+      "multipleResolutions": [
+        "1440x810",
+        "1600x900"
+      ],
+      "resolutionType": "Multiple Fixed"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "API",
+      "targetFps": 30
+    },
+    "resolution": {
+      "multipleResolutions": [
+        "1024x630",
+        "1280x720"
+      ],
+      "resolutionType": "Multiple Fixed"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "contributor": [
+    "masagrator",
+    "ChanseyIsTheBest"
+  ],
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Double (Reversed)",
+      "lockType": "API",
+      "notes": "Menus run at 60 FPS",
+      "targetFps": 30
+    },
+    "resolution": {
+      "resolutionType": "Fixed"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Double (Reversed)",
+      "lockType": "API",
+      "notes": "Menus run at 60 FPS",
+      "targetFps": 30
+    },
+    "resolution": {
+      "resolutionType": "Fixed"
+    }
+  }
+}

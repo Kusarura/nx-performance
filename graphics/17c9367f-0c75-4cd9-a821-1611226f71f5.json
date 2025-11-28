@@ -1,0 +1,24 @@
+{
+  "contributor": "masagrator",
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "Unlocked"
+    },
+    "resolution": {
+      "fixedResolution": "1280x720",
+      "notes": "Output resolution is always 2/3 of system setting \"TV Resolution\". So for 720p it's 854x480, for 480p it's 570x320",
+      "resolutionType": "Fixed"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "Unlocked"
+    },
+    "resolution": {
+      "fixedResolution": "854x480",
+      "resolutionType": "Fixed"
+    }
+  }
+}

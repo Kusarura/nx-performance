@@ -1,0 +1,33 @@
+{
+  "contributor": [
+    "masagrator"
+  ],
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "API",
+      "notes": "On top of API Lock also Custom FPS Lock is applied",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "1440x810",
+      "minResolution": "1176x662",
+      "notes": "In Quality mode it's Fixed 1440x810 for gameplay, 1296x729 for pause menu",
+      "resolutionType": "Dynamic"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "API",
+      "notes": "On top of API Lock also Custom FPS Lock is applied",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "1152x648",
+      "minResolution": "960x540",
+      "notes": "In Quality mode it's Fixed 1152x648 for gameplay, 1037x583 for pause menu",
+      "resolutionType": "Dynamic"
+    }
+  }
+}

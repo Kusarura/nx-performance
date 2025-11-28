@@ -1,0 +1,30 @@
+{
+  "contributor": [
+    "ChanseyIsTheBest",
+    "masagrator"
+  ],
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "API",
+      "notes": "Overworld NPC movement speed is tied to framerate",
+      "targetFps": 30
+    },
+    "resolution": {
+      "fixedResolution": "1280x720",
+      "resolutionType": "Fixed"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Triple",
+      "lockType": "API",
+      "notes": "Overworld NPC movement speed is tied to framerate",
+      "targetFps": 30
+    },
+    "resolution": {
+      "fixedResolution": "1280x720",
+      "resolutionType": "Fixed"
+    }
+  }
+}

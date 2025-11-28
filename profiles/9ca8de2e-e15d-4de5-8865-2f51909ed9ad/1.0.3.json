@@ -1,0 +1,15 @@
+{
+  "docked": {
+    "fps_behavior": "Unstable",
+    "resolution": "1920x1080",
+    "resolution_notes": "Liberation DLC is Fixed 900p",
+    "resolution_type": "Fixed",
+    "target_fps": 30
+  },
+  "handheld": {
+    "fps_behavior": "Unstable",
+    "resolution": "1280x720",
+    "resolution_type": "Fixed",
+    "target_fps": 30
+  }
+}

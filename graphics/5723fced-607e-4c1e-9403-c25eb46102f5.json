@@ -1,0 +1,32 @@
+{
+  "contributor": "masagrator",
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Double",
+      "lockType": "Custom",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "1920x1080",
+      "minResolution": "1344x760",
+      "resolutionType": "Dynamic"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Double",
+      "lockType": "Custom",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "1280x720",
+      "minResolution": "896x504",
+      "resolutionType": "Dynamic"
+    }
+  },
+  "shared": {
+    "Antialiasing": {
+      "value": "FXAA"
+    }
+  }
+}

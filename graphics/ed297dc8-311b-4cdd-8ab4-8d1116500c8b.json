@@ -1,0 +1,32 @@
+{
+  "contributor": [
+    "masagrator"
+  ],
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Double",
+      "lockType": "API",
+      "notes": "Performance mode sets FPS to Unlocked",
+      "targetFps": 30
+    },
+    "resolution": {
+      "multipleResolutions": [
+        "1440x900",
+        "1066x600"
+      ],
+      "notes": "Performance mode uses 1066x600",
+      "resolutionType": "Multiple Fixed"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Double",
+      "lockType": "API",
+      "targetFps": 30
+    },
+    "resolution": {
+      "fixedResolution": "1066x600",
+      "resolutionType": "Fixed"
+    }
+  }
+}

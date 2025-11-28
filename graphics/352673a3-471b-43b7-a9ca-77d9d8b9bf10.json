@@ -1,0 +1,29 @@
+{
+  "contributor": "masagrator",
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Double",
+      "lockType": "Custom",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "960x544",
+      "minResolution": "672x384",
+      "notes": "Temporal Checkerboard Rendering is used to target 1920x1080",
+      "resolutionType": "Dynamic"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Double",
+      "lockType": "Custom",
+      "targetFps": 30
+    },
+    "resolution": {
+      "maxResolution": "776x440",
+      "minResolution": "480x272",
+      "notes": "Temporal Checkerboard Rendering is used to target 1280x720",
+      "resolutionType": "Dynamic"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contributor": [
+    "masagrator"
+  ],
+  "docked": {
+    "framerate": {
+      "apiBuffering": "Double",
+      "lockType": "Custom",
+      "targetFps": 30
+    },
+    "resolution": {
+      "multipleResolutions": [
+        "853x480",
+        "1280x720",
+        "1920x1080"
+      ],
+      "notes": "Resolution is matching console's \"TV Resolution\" setting",
+      "resolutionType": "Multiple Fixed"
+    }
+  },
+  "handheld": {
+    "framerate": {
+      "apiBuffering": "Double",
+      "lockType": "Custom",
+      "targetFps": 30
+    },
+    "resolution": {
+      "fixedResolution": "1280x720",
+      "resolutionType": "Fixed"
+    }
+  }
+}
