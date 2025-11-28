@@ -1,21 +1,16 @@
 {
-  "contributor": [
-    "biase-d"
-  ],
-  "profiles": {
-    "docked": {
-      "fps_behavior": "Unstable",
-      "fps_notes": "Visible framepacing issues. \nIn main menu it's Locked 60 FPS, in battle close-ups it's Very unstable 35-60 FPS",
-      "resolution": "1920x1080",
-      "resolution_type": "Fixed",
-      "target_fps": 30
-    },
-    "handheld": {
-      "fps_behavior": "Unstable",
-      "fps_notes": "Visible framepacing issues. \nIn main menu it's Locked 60 FPS, in battle close-ups it's Very unstable 35-60 FPS",
-      "resolution": "1280x720",
-      "resolution_type": "Fixed",
-      "target_fps": 30
-    }
+  "docked": {
+    "fps_behavior": "Unstable",
+    "fps_notes": "Visible framepacing issues. \nIn main menu it's Locked 60 FPS, in battle close-ups it's Very unstable 35-60 FPS",
+    "resolution": "1920x1080",
+    "resolution_type": "Fixed",
+    "target_fps": 30
+  },
+  "handheld": {
+    "fps_behavior": "Unstable",
+    "fps_notes": "Visible framepacing issues. \nIn main menu it's Locked 60 FPS, in battle close-ups it's Very unstable 35-60 FPS",
+    "resolution": "1280x720",
+    "resolution_type": "Fixed",
+    "target_fps": 30
   }
 }

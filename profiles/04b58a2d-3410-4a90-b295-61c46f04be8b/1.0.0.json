@@ -1,19 +1,14 @@
 {
-  "contributor": [
-    "biase-d"
-  ],
-  "profiles": {
-    "docked": {
-      "fps_behavior": "Locked",
-      "resolution": "1664x936",
-      "resolution_type": "Fixed",
-      "target_fps": 30
-    },
-    "handheld": {
-      "fps_behavior": "Locked",
-      "resolution": "1024x576",
-      "resolution_type": "Fixed",
-      "target_fps": 30
-    }
+  "docked": {
+    "fps_behavior": "Locked",
+    "resolution": "1664x936",
+    "resolution_type": "Fixed",
+    "target_fps": 30
+  },
+  "handheld": {
+    "fps_behavior": "Locked",
+    "resolution": "1024x576",
+    "resolution_type": "Fixed",
+    "target_fps": 30
   }
 }

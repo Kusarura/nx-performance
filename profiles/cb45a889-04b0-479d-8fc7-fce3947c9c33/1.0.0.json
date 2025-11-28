@@ -1,19 +1,17 @@
 {
-  "profiles": {
-    "docked": {
-      "fps_behavior": "Stable",
-      "max_res": "1920x1080",
-      "min_res": "1600x900",
-      "resolution_notes": "This is only for AC4 performance",
-      "resolution_type": "Dynamic",
-      "target_fps": 30
-    },
-    "handheld": {
-      "fps_behavior": "Stable",
-      "resolution": "1280x720",
-      "resolution_notes": "This is only for AC4 performance",
-      "resolution_type": "Fixed",
-      "target_fps": 30
-    }
+  "docked": {
+    "fps_behavior": "Stable",
+    "max_res": "1920x1080",
+    "min_res": "1600x900",
+    "resolution_notes": "This is only for AC4 performance",
+    "resolution_type": "Dynamic",
+    "target_fps": 30
+  },
+  "handheld": {
+    "fps_behavior": "Stable",
+    "resolution": "1280x720",
+    "resolution_notes": "This is only for AC4 performance",
+    "resolution_type": "Fixed",
+    "target_fps": 30
   }
 }

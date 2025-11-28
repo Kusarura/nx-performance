@@ -2,18 +2,16 @@
   "contributor": [
     "biase-d"
   ],
-  "profiles": {
-    "docked": {
-      "fps_behavior": "Stable",
-      "resolution": "1280x720",
-      "resolution_type": "Fixed",
-      "target_fps": 60
-    },
-    "handheld": {
-      "fps_behavior": "Stable",
-      "resolution": "1024x576",
-      "resolution_type": "Fixed",
-      "target_fps": 60
-    }
+  "docked": {
+    "fps_behavior": "Stable",
+    "resolution": "1280x720",
+    "resolution_type": "Fixed",
+    "target_fps": 60
+  },
+  "handheld": {
+    "fps_behavior": "Stable",
+    "resolution": "1024x576",
+    "resolution_type": "Fixed",
+    "target_fps": 60
   }
 }

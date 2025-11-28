@@ -1,18 +1,16 @@
 {
-  "profiles": {
-    "docked": {
-      "fps_behavior": "Stable",
-      "fps_notes": "Drops in forest area with fog and alpha effects\n60 FPS for fullscreen menus and synthesis",
-      "resolution": "1920x1080",
-      "resolution_type": "Fixed",
-      "target_fps": 30
-    },
-    "handheld": {
-      "fps_behavior": "Stable",
-      "fps_notes": "Drops in forest area with fog and alpha effects\n60 FPS for fullscreen menus and synthesis",
-      "resolution": "1280x720",
-      "resolution_type": "Fixed",
-      "target_fps": 30
-    }
+  "docked": {
+    "fps_behavior": "Stable",
+    "fps_notes": "Drops in forest area with fog and alpha effects\n60 FPS for fullscreen menus and synthesis",
+    "resolution": "1920x1080",
+    "resolution_type": "Fixed",
+    "target_fps": 30
+  },
+  "handheld": {
+    "fps_behavior": "Stable",
+    "fps_notes": "Drops in forest area with fog and alpha effects\n60 FPS for fullscreen menus and synthesis",
+    "resolution": "1280x720",
+    "resolution_type": "Fixed",
+    "target_fps": 30
   }
 }

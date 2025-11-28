@@ -1,8 +1,5 @@
 {
-  "contributor": [
-    "ChanseyIsTheBest",
-    "biase-d"
-  ],
+  "contributor": "ChanseyIsTheBest",
   "docked": {
     "framerate": {
       "apiBuffering": "Triple",
